@@ -331,7 +331,7 @@ export default function DataTable({ meetings, serviceBodies }) {
               </IconButton>
             </TableCell>
             <TableCell style={{ fontWeight: 600, color: "#fff" }}>
-              New England Region Region
+              Northern New England Region Region
             </TableCell>
             <TableCell
               align="center"

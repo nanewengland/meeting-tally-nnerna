@@ -25,7 +25,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "npm run build && touch ./build/.nojekyll && echo 'meeting-tally.nerna.org' > ./build/CNAME && npx gh-pages -d build -t true"
+    "deploy": "npm run build && touch ./build/.nojekyll && echo 'meeting-tally-nnerna.nerna.org' > ./build/CNAME && npx gh-pages -d build -t true"
   },
   "browserslist": {
     "production": [
